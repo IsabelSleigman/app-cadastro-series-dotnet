@@ -25,7 +25,7 @@
 					case "5":
 						SerieService.VisualizarSerie();
 						break;
-					case "6":
+					case "C":
 						Console.Clear();
 						break;
 
