@@ -1,0 +1,15 @@
+D:\Repo\App cadastro de series .NET\app-cadastro-series-dotnet\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+D:\Repo\App cadastro de series .NET\app-cadastro-series-dotnet\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\App cadastro de series .NET\app-cadastro-series-dotnet\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+D:\Repo\App cadastro de series .NET\app-cadastro-series-dotnet\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+D:\Repo\App cadastro de series .NET\app-cadastro-series-dotnet\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\Repo\App cadastro de series .NET\app-cadastro-series-dotnet\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+D:\Repo\App cadastro de series .NET\app-cadastro-series-dotnet\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+D:\Repo\App cadastro de series .NET\app-cadastro-series-dotnet\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+D:\Repo\App cadastro de series .NET\app-cadastro-series-dotnet\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+D:\Repo\App cadastro de series .NET\app-cadastro-series-dotnet\DIO.Series\bin\Debug\net6.0\ref\DIO.Series.dll
+D:\Repo\App cadastro de series .NET\app-cadastro-series-dotnet\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+D:\Repo\App cadastro de series .NET\app-cadastro-series-dotnet\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+D:\Repo\App cadastro de series .NET\app-cadastro-series-dotnet\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
+D:\Repo\App cadastro de series .NET\app-cadastro-series-dotnet\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+D:\Repo\App cadastro de series .NET\app-cadastro-series-dotnet\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache

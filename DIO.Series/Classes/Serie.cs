@@ -31,16 +31,16 @@ namespace DIO.Series.Classes
             retorno += "Excluido: " + this.Excluido;
 			return retorno;
 		}
-        public string RetornaTitulo()
+        public string RetornarTitulo()
 		{
 			return this.Titulo;
 		}
 
-		public int RetornaId()
+		public int RetornarId()
 		{
 			return this.Id;
 		}
-        public bool RetornaExcluido()
+        public bool RetornarExcluido()
 		{
 			return this.Excluido;
 		}
